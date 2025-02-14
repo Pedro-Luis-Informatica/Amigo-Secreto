@@ -29,7 +29,7 @@ Este es un programa en JavaScript que permite registrar nombres de amigos y real
 - `amigos`: Array que almacena la lista de nombres.
 - `inputAmigo`: Campo de entrada para escribir el nombre.
 - `listaAmigos`: Contenedor donde se muestra la lista de amigos registrados.
-- `amigoSorteadoElement`: Contenedor donde se muestra el resultado del sorteo.
+- `amigoSorteado`: Contenedor donde se muestra el resultado del sorteo.
 
 ### Funciones
 
